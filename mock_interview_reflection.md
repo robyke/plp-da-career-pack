@@ -2,7 +2,7 @@
 
 ## Interview Details
 
-**Interviewer:** Data Analytics peer  
+**Interviewer:** Data Analytics peer: Kelvin Mugambi
 **Date:** 19 October 2026  
 **Duration:** 30 minutes  
 **Interview Focus:** Junior Data Analyst role
